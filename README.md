@@ -1,1 +1,1 @@
-# AWS_Lambda_AWS-Lambda-WeatherAlert
+# AWS_Lambda_WeatherAlert
